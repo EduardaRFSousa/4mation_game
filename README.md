@@ -42,8 +42,7 @@
 ## ▶️ How to run
 1. Clone this repository.
 2. Open `index.html` in your browser.
-3. Enjoy playing!
 
 ---
 
-👩‍💻 *Developed by Eduarda Rocha*
+👩‍💻 *Developed by Eduarda Rocha (https://github.com/EduardaRFSousa/)*
