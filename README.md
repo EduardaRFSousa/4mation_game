@@ -4,6 +4,9 @@
 
 > ⚠️ **Note:** the core logic and winning conditions are implemented, but the scoreboard for each player remains on the interface even though it has no logic behind it yet. It’s my first complete attempt at handling **game logic** and **dynamic DOM updates** with JavaScript.
 
+**Preview:**
+![preview-img](img/screenshot.png)
+
 ---
 
 ## 📌 Rules of the game
